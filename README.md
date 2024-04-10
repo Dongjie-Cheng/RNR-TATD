@@ -47,11 +47,11 @@ HBO浓度图示例如下
 注释区域划分
 
 <p align="center">
-  <img src="./example/4.png" alt="Image 1" width="80%"/>
+  <img src="./example/4.png" alt="Image 1" width="96%"/>
 </p>
 
 <p align="center">
-  <img src="./example/5.png" alt="Image 1" width="80%"/>
+  <img src="./example/5.png" alt="Image 1" width="96%"/>
 </p>
 
 ## 🧡贡献
