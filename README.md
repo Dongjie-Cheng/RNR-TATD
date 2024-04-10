@@ -37,6 +37,12 @@ Rehabilitation Nursing Robot-Trust Assessment Trial Database, 康复护理机器
 - OpenCV库（用于处理视频数据）
 
 ## 🔬可视化样例
+HBO浓度图示例如下
+<p align="center">
+  <img src="./example/1.jpg" alt="Image 1" width="48%"/>
+  <img src="./example/2.jpg" alt="Image 2" width="48%"/>
+</p>
+
 ![HBO浓度图1](./example/1.jpg) 
 ![HBO浓度图2](./example/2.jpg)
 
