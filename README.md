@@ -37,7 +37,7 @@ Rehabilitation Nursing Robot-Trust Assessment Trial Database, 康复护理机器
 - OpenCV库（用于处理视频数据）
 
 ## 可视化样例
-![HBO浓度图](./example/1.jpg)
+![HBO浓度图1](./example/1.jpg) ![HBO浓度图2](./example/2.jpg)
 
 ## 🧡贡献
 
