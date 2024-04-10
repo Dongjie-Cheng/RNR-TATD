@@ -4,8 +4,8 @@ Rehabilitation Nursing Robot-Trust Assessment Trial Database, 康复护理机器
 
 ## 🔬实验过程示意
 注释区域划分
-![1](./example/3.png)
-![2](./example/4.png)
+![1](./example/4.png)
+![2](./example/5.png)
 
 ## 🚩数据集内容
 
