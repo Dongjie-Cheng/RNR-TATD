@@ -2,17 +2,6 @@
 
 Rehabilitation Nursing Robot-Trust Assessment Trial Database, 康复护理机器人信任度评估试验数据库（以下简称为“本数据库”）旨在为研究人员提供一个综合性数据资源，以研究和评估康复护理机器人在实际应用中的信任度。本数据库集成了多种数据类型，包括但不限于ED信任度量表、近红外数据、眼动数据，旨在促进康复机器人领域的研究和发展。
 
-## 🔬实验过程示意
-注释区域划分
-
-<p align="center">
-  <img src="./example/4.png" alt="Image 1" width="80%"/>
-</p>
-
-<p align="center">
-  <img src="./example/5.png" alt="Image 1" width="80%"/>
-</p>
-
 ## 🚩数据集内容
 
 本数据库包含以下数据类型：
@@ -52,6 +41,17 @@ HBO浓度图示例如下
 <p align="center">
   <img src="./example/1.jpg" alt="Image 1" width="48%"/>
   <img src="./example/2.jpg" alt="Image 2" width="48%"/>
+</p>
+
+## 🔬实验过程示意
+注释区域划分
+
+<p align="center">
+  <img src="./example/4.png" alt="Image 1" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="./example/5.png" alt="Image 1" width="80%"/>
 </p>
 
 ## 🧡贡献
