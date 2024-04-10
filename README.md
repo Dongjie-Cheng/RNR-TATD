@@ -43,9 +43,6 @@ HBO浓度图示例如下
   <img src="./example/2.jpg" alt="Image 2" width="48%"/>
 </p>
 
-![HBO浓度图1](./example/1.jpg) 
-![HBO浓度图2](./example/2.jpg)
-
 ## 🧡贡献
 
 欢迎对本数据库进行贡献。如果您有任何建议、数据补充或改进，请通过Pull Requests或Issues与我们联系。
