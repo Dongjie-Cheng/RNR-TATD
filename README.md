@@ -7,6 +7,7 @@ Rehabilitation Nursing Robot-Trust Assessment Trial Database, 康复护理机器
 本数据库包含以下数据类型：
 
 - **ED信任度量表**：用于量化评估受试者对康复护理机器人信任度的问卷调查结果。
+- **近红外数据**：用于量化评估受试者对康复护理机器人信任度的问卷调查结果。
 - **眼动数据**：记录受试者与康复护理机器人交互过程中的眼动追踪数据。
 - 其他相关数据：可能包括视频记录、访谈记录等辅助研究数据。
 
@@ -20,11 +21,12 @@ Rehabilitation Nursing Robot-Trust Assessment Trial Database, 康复护理机器
     ```
     git clone https://github.com/Dongjie-Cheng/RNR-TATD.git
     ```
-2. 浏览`data`目录查看所有可用的数据集。
+2. 参考`README`, 查看所有可用的数据集。
+3. 采用`Python`, `R`等语言分析数据
 
 ### 数据格式
 
-数据主要以CSV、JSON和视频文件格式提供。具体格式说明请参见各个子目录下的`README`文件。
+数据主要以CSV、xlsx和图像文件格式提供。具体格式说明请参见各个子目录下的`README`文件。
 
 ## 环境要求
 
